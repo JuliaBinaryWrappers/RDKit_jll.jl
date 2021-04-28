@@ -1,0 +1,16 @@
+name = "RDKit_jll"
+uuid = "03d1d220-30e6-562a-9e1a-3062d7b56d75"
+version = "2021.9.1-pre+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+FreeType2_jll = "d7e528f0-a631-5988-bf34-fe36492bcfd7"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "^1.6"
