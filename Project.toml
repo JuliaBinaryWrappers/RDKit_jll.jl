@@ -1,6 +1,6 @@
 name = "RDKit_jll"
 uuid = "03d1d220-30e6-562a-9e1a-3062d7b56d75"
-version = "2021.9.2+0"
+version = "2022.3.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,5 +13,5 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "^1.6"
+julia = "1.6"
 boost_jll = "=1.76.0"
