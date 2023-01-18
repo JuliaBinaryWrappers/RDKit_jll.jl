@@ -1,6 +1,6 @@
 name = "RDKit_jll"
 uuid = "03d1d220-30e6-562a-9e1a-3062d7b56d75"
-version = "2022.9.3+0"
+version = "2022.9.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

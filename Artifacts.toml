@@ -1,94 +1,94 @@
 [[RDKit]]
 arch = "aarch64"
-git-tree-sha1 = "4409da2d37d184fa76aaec7b0ea7a40579c7c0fe"
+git-tree-sha1 = "8cdc7e4b909b10dab351fd4d465cb42ef3e95188"
 os = "macos"
 
     [[RDKit.download]]
-    sha256 = "739dd1994c794d6df384f28b2d95f0945e46c603b9667b1aa883d65f2b20e711"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "201f08139d1248f6b6fcd2ce49dff017cd161366b9a17a6ff798d6718027bde9"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.aarch64-apple-darwin.tar.gz"
 [[RDKit]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "663e518c02af5d50132918f2bc2c4ce862be72b6"
+git-tree-sha1 = "11f6761b3e61de59e9a79eb66df646dac9d60493"
 libc = "glibc"
 os = "linux"
 
     [[RDKit.download]]
-    sha256 = "29aba6588f57d2038560279d013f540b212455fd634943d1fb1a839779334dc6"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "07b18e86224fa0e32745409ffbf6e9e13b6d3afc9aefa89a7de1955a88b58968"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.aarch64-linux-gnu-cxx03.tar.gz"
 [[RDKit]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e91d790e638032103b74c04cfc4770ba18817ad"
+git-tree-sha1 = "1cd83fce4fb5406bb85ce952b7b6b41119d08025"
 libc = "glibc"
 os = "linux"
 
     [[RDKit.download]]
-    sha256 = "f431ab2b6ca0a2bf9fb4cffd2b1fdd40cf2f5f8504a700a6bc84865bfa8e4f2e"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c871aabf877f4e6a9c98fe8ba13f7edcceecda78873531a7eee2ad16bba10a4a"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.aarch64-linux-gnu-cxx11.tar.gz"
 [[RDKit]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "503d5be6c78ae383e398483087dabd8075bf2837"
+git-tree-sha1 = "a88141ac7f36a441b2dcbbf5f99221bd8e90ae4b"
 libc = "glibc"
 os = "linux"
 
     [[RDKit.download]]
-    sha256 = "1780c0ef756ec1cfbe50481a35cf522f1b03ebcfdd0dba4b12bee3fadb568021"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "0d10389dd413b9bcf8127eff36a31ad119e582091442e4815a5e0d7bb30e1a76"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.i686-linux-gnu-cxx03.tar.gz"
 [[RDKit]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9c95a8465ec44650cc17db66c338e657e7cd6646"
+git-tree-sha1 = "60fa279daa0a9d2eebd4bba4bd77ac348458f90e"
 libc = "glibc"
 os = "linux"
 
     [[RDKit.download]]
-    sha256 = "8232416fa5270b833fd47b0f87e4683f6f8c1b541f90f375ac9123542b7a8e9a"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "18b4edd041453c4c8d3b2003d0cd480c6cf00e2aa456cbce0b70613cf71ef147"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.i686-linux-gnu-cxx11.tar.gz"
 [[RDKit]]
 arch = "x86_64"
-git-tree-sha1 = "ff0dfdea36272889a28a58ff46dae3595b4bc66e"
+git-tree-sha1 = "a5c08497c5e6ad87af59ae15acfeb9cefdd06030"
 os = "macos"
 
     [[RDKit.download]]
-    sha256 = "9a3128ed56b9a859fca7f2f77908eb6a169f4e45e27c06dd803162ffbde1a0cc"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "f3627160db1dc3b2a8967002a725fffbe3ca95f2ee61e9645f96af552b4eb988"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.x86_64-apple-darwin.tar.gz"
 [[RDKit]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4cbdc950597a4defc79a431bde4543f16bdc6dca"
+git-tree-sha1 = "ad49f90c41f73bf90de9dd02d2620bc2393c1cfc"
 libc = "glibc"
 os = "linux"
 
     [[RDKit.download]]
-    sha256 = "1c4b249f5f7b1804488c3acb5810d06ccc8cb1194b1f8408989fb7d8549f0b2d"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "94b4744e0ca86a49ba9d79af6bc1aec34dab6c2f90f5125f03bde0d8cb079f33"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.x86_64-linux-gnu-cxx03.tar.gz"
 [[RDKit]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e88cf6d9cf723148a3f72b4bd23d2fca9f01509c"
+git-tree-sha1 = "ff255b2a85a0a5fa92d931726aa1e93ab7f68294"
 libc = "glibc"
 os = "linux"
 
     [[RDKit.download]]
-    sha256 = "9781fe6836d289f09841ba508edfeac02704aadcafd7016253656156e73a873b"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ad773ce0bb8e17a8c0bda743022dcc598d21080d66a20712fd84f49c8063a796"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.x86_64-linux-gnu-cxx11.tar.gz"
 [[RDKit]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3f4e83c5a8ec562188bc1fb9a610ec49aedddf79"
+git-tree-sha1 = "8ff11fc96bca4e7b5042653238ac27d3d7a3b11a"
 os = "windows"
 
     [[RDKit.download]]
-    sha256 = "6bafa7279ed0cd9f513e7406d5241a14e6d20b296480eb6e4c0fca01d85f27a6"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "677c95726ea1ba24b12e795707d2a60c990105b6c0b25cf2487b358072b4df3c"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.x86_64-w64-mingw32-cxx03.tar.gz"
 [[RDKit]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9bd79de1e0e1e5c26358f3ce8bca16a81b69135a"
+git-tree-sha1 = "0ee0f80f26a6cf04b746bfa7fa400ef083506afb"
 os = "windows"
 
     [[RDKit.download]]
-    sha256 = "2d0048f8716b7ae983f42e1b48f59441cdb1cb5bc583de70581a148416f19af0"
-    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.3+0/RDKit.v2022.9.3.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "06d73f53dd92dd4947284c83d68590519aea7c56567e552f0db8ed9b750d1559"
+    url = "https://github.com/JuliaBinaryWrappers/RDKit_jll.jl/releases/download/RDKit-v2022.9.4+0/RDKit.v2022.9.4.x86_64-w64-mingw32-cxx11.tar.gz"
